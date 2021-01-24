@@ -24,4 +24,7 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2019-2021 M³J.</a>"
+footer_content: "Copyright &copy; 2019-2021 Massachusetts Math Modeling Jam.</a>"
+
+plugins:
+  - jekyll-seo-tag
