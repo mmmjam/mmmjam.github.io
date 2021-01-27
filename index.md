@@ -2,6 +2,8 @@
 layout: default
 title: Home
 nav_order: 1
+description: A math modeling jam for middle school and high school students in Massachusetts
+permalink: /
 ---
 
 # Massachusetts Math Modeling Jam
