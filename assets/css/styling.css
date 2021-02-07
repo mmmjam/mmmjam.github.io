@@ -19,3 +19,7 @@ td {
     border-radius: 50%;
 }
 
+.responsive{
+    max-height: 100%; 
+    max-width: 100%; 
+}
