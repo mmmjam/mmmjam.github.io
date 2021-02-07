@@ -15,13 +15,12 @@ td {
 
 .profile {
     height: 200px;
-
     width:200px; 
     border-radius: 50%;
 }
 
 .responsive{
-    height: auto; 
+    max-height: 100%; 
     max-width: 100%; 
 }
 
