@@ -69,7 +69,7 @@ Learn more about the team behind the Math Modeling Jam!
         </TD>
         <!-- PERSON 6 IMAGE -->
         <TD> 
-            <img class="profile" src="/assets/images/ishitag.jpg" alt="Ishita Goluguri"/>
+            <img class="profile" src="/assets/images/ishitag.JPG" alt="Ishita Goluguri"/>
         </TD>
     </TR>
     <!-- ROW 3 OF NAMES -->
