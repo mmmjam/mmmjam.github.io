@@ -8,7 +8,7 @@ has_children: false
 # Contact Us
 
 
-# Program Coordinators 
+## Program Coordinators 
 This section includes how you can reach out to us if you have any questions about the program.
 {: .fs-6 .fw-300 }
 
@@ -16,6 +16,6 @@ This section includes how you can reach out to us if you have any questions abou
 
 2. Program Staff [mmmjam.team@gmail.com](mailto:mmmjam.team@gmail.com)
 
-# Speakers 
+## Speakers 
 
 This section includes our workshop hosts and speakers who kindly volunteered their time for this event. Please direct any questions you have about their topics here! 
