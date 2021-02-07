@@ -14,13 +14,14 @@ td {
 }
 
 .profile {
-    height: 200px; 
+    height: 200px;
+
     width:200px; 
     border-radius: 50%;
 }
 
 .responsive{
     height: auto; 
-    width: auto; 
+    max-width: 100%; 
 }
 
