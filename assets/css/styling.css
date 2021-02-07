@@ -20,6 +20,8 @@ td {
 }
 
 .responsive{
-    max-height: 100%; 
+    max-height: auto; 
     max-width: 100%; 
+    border-radius: 50%;
+    padding-top: 100%;
 }
