@@ -41,11 +41,11 @@ Learn more about the team behind the Math Modeling Jam!
     <TR>
         <!-- PERSON 3 IMAGE -->
         <TD>
-            <img class="profile responsive" src="/assets/images/asyang.jpg" alt="Andrew Yang"/>
+            <img class="profile" src="/assets/images/asyang.jpg" alt="Andrew Yang"/>
         </TD>
         <!-- PERSON 4 IMAGE -->
         <TD>
-            <img class="profile responsive" src="/assets/images/anviemani.jpeg" alt="Anvi Emani"/>
+            <img class="profile" src="/assets/images/anviemani.jpeg" alt="Anvi Emani"/>
         </TD>
     </TR>
     <!-- ROW 2 OF NAMES -->
@@ -65,11 +65,11 @@ Learn more about the team behind the Math Modeling Jam!
     <TR>
         <!-- PERSON 5 IMAGE -->
         <TD> 
-            <img class="profile responsive" src="/assets/images/juliar.jpg" alt="Julia Rasmussen"/>
+            <img class="profile" src="/assets/images/juliar.jpg" alt="Julia Rasmussen"/>
         </TD>
         <!-- PERSON 6 IMAGE -->
         <TD> 
-            <img class="profile responsive" src="/assets/images/ishitag.JPG" alt="Ishita Goluguri"/>
+            <img class="profile" src="/assets/images/ishitag.JPG" alt="Ishita Goluguri"/>
         </TD>
     </TR>
     <!-- ROW 3 OF NAMES -->

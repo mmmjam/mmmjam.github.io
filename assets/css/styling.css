@@ -14,14 +14,7 @@ td {
 }
 
 .profile {
-    height: 35.587188612099645vh;
+    height: 35.587188612099645vh auto;
     width:15.67398119122257vw; 
     border-radius: 50%;
 }
-
-/* .responsive{
-    max-height: auto; 
-    max-width: 100%; 
-    border-radius: 50%;
-    padding-top: 100%;
-} */
