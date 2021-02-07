@@ -19,3 +19,8 @@ td {
     border-radius: 50%;
 }
 
+.responsive{
+    height: auto; 
+    width: auto; 
+}
+

@@ -17,18 +17,18 @@ Learn more about the team behind the Math Modeling Jam!
     <TR>
         <!-- PERSON 1 IMAGE -->
         <TD> 
-            <img class="profile responsive" src="/assets/images/cliu11.jpg" alt="Clarise Liu"/>
+            <img class="profile responsive" src="/assets/images/garimap.jpg" alt="Clarise Liu"/>
         </TD>
         <!-- PERSON 2 IMAGE -->
         <TD> 
-            <img class="profile responsive" src="/assets/images/garimap.jpg" alt="Garima Prabhakar"/>
+            <img class="profile responsive" src="/assets/images/cliu11.jpg" alt="Garima Prabhakar"/>
         </TD>
     </TR>
     <!-- ROW 1 OF NAMES -->
     <TR>
         <!-- PERSON 1 NAME -->
         <TD>
-            Garima Prabhakar, Sample Position  <br>
+            Garima Prabhakar, Founder <br>
             <a href="mailto:gprabhakar@wpi.edu">gprabhakar@wpi.edu</a>
         </TD>
         <!-- PERSON 2 NAME -->
