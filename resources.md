@@ -35,10 +35,13 @@ This was the prompt M<sup>3</sup>J problem writers answered in their sample pape
 Integer feugiat scelerisque varius morbi enim. Risus pretium quam vulputate dignissim suspendisse. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque. 
 
 ### Sample Paper 
-<iframe class = "iframe" src="https://docs.google.com/document/d/e/2PACX-1vTAodh20VRp3UuQEmoi4L5Ptg06w6CSxhKLPFIFndySeNoMRvN-cH_rR0WSXskeZeRtssqLCM53wbRm/pub?embedded=true"></iframe>
+View the paper on Google Docs [here](https://docs.google.com/document/d/1Yl5EOtGty0q3_kwc5jq07Uba_-hRUJ1vVU1afy07lTQ/edit?usp=sharing). 
+
+<iframe class = "iframe" src="https://docs.google.com/document/d/1Yl5EOtGty0q3_kwc5jq07Uba_-hRUJ1vVU1afy07lTQ/edit?usp=sharing"></iframe>
 
 ### Paper Template
-<iframe class= "iframe" src="https://docs.google.com/document/d/e/2PACX-1vR48DaJF9h_a9yseQkcvSxepTbfz75nshorDspSXoGJkJVar36pU86GfrV600LhBMg2uYoecZ0WFdhg/pub?embedded=true"></iframe> 
+View the paper on Google Docs [here](https://docs.google.com/document/d/1p74TIbV6MqcdQUeSTwvMDwFyZmwjSmi5tMBTYLKVU4w/edit?usp=sharing).
+<iframe class= "iframe" src="https://docs.google.com/document/d/1p74TIbV6MqcdQUeSTwvMDwFyZmwjSmi5tMBTYLKVU4w/edit?usp=sharing"></iframe> 
 
 ## Rubric
 
