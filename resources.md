@@ -35,10 +35,10 @@ This was the prompt M<sup>3</sup>J problem writers answered in their sample pape
 Integer feugiat scelerisque varius morbi enim. Risus pretium quam vulputate dignissim suspendisse. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque. 
 
 ### Sample Paper 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTAodh20VRp3UuQEmoi4L5Ptg06w6CSxhKLPFIFndySeNoMRvN-cH_rR0WSXskeZeRtssqLCM53wbRm/pub?embedded=true"></iframe>
+<iframe class = "iframe" src="https://docs.google.com/document/d/e/2PACX-1vTAodh20VRp3UuQEmoi4L5Ptg06w6CSxhKLPFIFndySeNoMRvN-cH_rR0WSXskeZeRtssqLCM53wbRm/pub?embedded=true"></iframe>
 
 ### Paper Template
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vR48DaJF9h_a9yseQkcvSxepTbfz75nshorDspSXoGJkJVar36pU86GfrV600LhBMg2uYoecZ0WFdhg/pub?embedded=true"></iframe> 
+<iframe class= "iframe" src="https://docs.google.com/document/d/e/2PACX-1vR48DaJF9h_a9yseQkcvSxepTbfz75nshorDspSXoGJkJVar36pU86GfrV600LhBMg2uYoecZ0WFdhg/pub?embedded=true"></iframe> 
 
 ## Rubric
 
