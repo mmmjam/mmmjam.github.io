@@ -8,9 +8,7 @@ has_children: false
 # Jam Rules & Guidelines
 {: .no_toc }
 
-Every annual math jam will adhere to these rules (described below) about event requirements and guidelines. This page also includes submission requirements unique to the 2021 math jam. 
-
-Please review this page <b> before </b> the problem is released. Please direct any questions you have to [the math jam team](mailto:mmmjam.team@gmail.com). 
+Please review this page <b> before </b> the problem is released and direct any questions you have to [the math jam team](mailto:mmmjam.team@gmail.com). 
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">
@@ -94,11 +92,9 @@ In addition to the general rules above, the 2021 math jam will follow these requ
 
 Submitting a paper is a required component of the 2021 math jam. 
 
-<ul>
   <li><b>Submission Eligibility & Deadlines:</b> Submitting a paper is required to qualify for awards. No submissions will be accepted nor eligible for judging after April 25, 10 AM EST. S Please contact an event runner if there are extroidinary circumstances. 
   <li><b>Page Limits:</b>Excluding references and citations, Junior Division papers must be no longer than five (5) pages and Senior Division papers must be no longer than seven (7) pages. This means that the last page of content can be no later than Page 5 or Page 7 respectively. Judges will not consider any pages past this cut-off for awards.</li>
   <li><b>Standard Formatting:</b>Final papers must use the Times New Roman, size 12 font in text that is not headings, titles, or other forms of formatting. Teams are welcome to choose how to organize the sections of their paper and whether to include color.</li>
-</ul>  
 
 
 ## Elevator Pitch
