@@ -102,15 +102,15 @@ Submitting a paper is a required component of the 2021 math jam.
 
 ## Elevator Pitch
 
-Submitting an elevator pitch is an optional component of the 2021 math jam for a team. However, teams who submit a video will be eligible for a raffle of mini-prizes. 
+Submitting an elevator pitch is an optional component of the 2021 math jam for a team. However, teams who submit a team recording will be eligible for a raffle of mini-prizes. 
 
-Each team is welcome to submit a video to present their project in a verbal form. This is a fun and great opportunity to practice  public speaking skills and build a community in our virtual landscape! 
+Each team is welcome to submit a video or audio to present their project in a verbal form. This is a fun and great opportunity to practice  public speaking skills and build a community in our virtual landscape! 
 
 
-<b>Submission Eligibility & Deadlines:</b> Submitted videos will not be considered when judging for awards, so videos will be accepted until 11:59 PM EST on April 25.
+<b>Submission Eligibility & Deadlines:</b> Submitted videos will not be considered when judging for awards. Videos will be accepted until 11:59 PM EST on April 25.
 
-<b>Video Uploads:</b>Please upload your video onto YouTube, either as a public or unlisted video. Submit your video using through our [submission page](https://mmmjam.github.io/submission/) by providing the link to your video! 
+<b>Uploading:</b>Please upload your final cut of your video/audio as a MP4/MP3 file respectively to our [submission page](https://mmmjam.github.io/submission/)! 
 
-<b>Time Limit:</b>Please keep your videos under three (3) minutes.
+<b>Time Limit:</b>Please keep your submission under three (3) minutes.
 
-<b>Video Content:</b>Please state your team number (and your names if you choose) within the first minute of your video. This is especially helpful for event coordinators later when they organize work for the math jam gallery!
+<b>Content:</b>Please state your team number (and your names if you choose) within the first minute of your recording. This is especially helpful for event coordinators later when they organize work for the math jam gallery!
