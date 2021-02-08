@@ -22,6 +22,8 @@ This section will show you how to submit your paper and other work for the math 
 
 ---
 
+Before submitting your team's work, check [here](https://mmmjam.github.io/rules-and-guidelines) to make sure your work adheres to this year's requirements. Remember that all submissions are final. Good luck and happy modeling! 
+
 ## Senior Division Submission
 
 If you are in the senior division, you can submit your work [here](https://forms.gle/VJYyGjtGFDnMaPq38).

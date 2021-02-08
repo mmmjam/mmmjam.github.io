@@ -8,7 +8,9 @@ has_children: false
 # Jam Rules & Guidelines
 {: .no_toc }
 
-The annual math jam will adhere to these rules (described below) about event requirements and guidelines! It's a good idea to review this page <b> before </b> the problem is released. Please direct any questions you have to [the math jam team](mailto:mmmjam.team@gmail.com). 
+Every annual math jam will adhere to these rules (described below) about event requirements and guidelines. This page also includes submission requirements unique to the 2021 math jam. 
+
+Please review this page <b> before </b> the problem is released. Please direct any questions you have to [the math jam team](mailto:mmmjam.team@gmail.com). 
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">
@@ -21,6 +23,9 @@ The annual math jam will adhere to these rules (described below) about event req
 </details>
 
 ---
+
+
+# General Rules
 
 ## Participants Per Team
 
@@ -36,6 +41,15 @@ This event divides its participants into two divisions: the <b> Junior Division(
 
 <b> Eighth graders must join the division that aligns with their sending school </b>. Whichever division that an eighth grader chooses while registering must reflect the school they currently attend: either middle school (the Junior Division) or high school (the Senior Divison).
 
+## Submissions 
+
+Each team is expected to submit a final math modeling paper and an optional elevator pitch. 
+
+All interested teams will have their submissions showcased on our gallery! The gallery is a great way to celebrate your own work and see what your fellow math modelers worked on during the jam. 
+
+Specifics about 2021 submission standards can be found [here](https://mmmjam.github.io/rules-and-guidelines/#2021-math-jam-rules), and additional resources to help with projects can be found [here](mmmjam.github.io/resources). 
+
+
 ## Time Limit
 
 In total, each team will have <b>24 hours</b> to develop a math model and submit their final report. 
@@ -50,10 +64,9 @@ Submission forms to pass in a final report will be released [here](https://mmmja
 
 Academic honesty is the principle of being honest in all the work you do. In the context of M<sup>3</sup>J, an academically honest team creates their own model and report without cheating or presenting the work of others as their own. 
 
-Math models are based off real life. This means your team will likely use resources on the Internet: government documents, graphs, videos, programming code, you name it! Research is encouraged and an important part of making a good model. If you ever quote, paraphrase, use an image or graph that you did not make, or reference facts that you found while researching, you MUST cite your sources. You cannot take credit for work that is not yours. For example, below is a acceptable citation for this webpage that was generated through Easybib[https://www.easybib.com/]:
+Math models are based off real life. This means your team will likely use resources on the Internet: government documents, graphs, videos, programming code, you name it! Research is encouraged and an important part of making a good model. If you ever quote, paraphrase, use an image or graph that you did not make, or reference facts that you found while researching, you MUST cite your sources. You cannot take credit for work that is not yours. For example, below is a acceptable citation for this webpage that was generated through [Easybib](https://www.easybib.com/):
 
-Team, MMMJ. “MMMJ Website .” M³J, 1 Jan. 2021, mmmjam.github.io/. 
-
+<i>Team, MMMJ. “MMMJ Website .” M³J, 1 Jan. 2021, mmmjam.github.io/. </i>
 
 
 To ensure a fair playing field, The M<sup>3</sup>J Team reserves the right to disqualify a paper if academic dishonesty is detected. 
@@ -73,3 +86,30 @@ The Massachusetts Math Modeling Jam is committed to providing a safe and positiv
 A member of the M<sup>3</sup>J team will always be online on Zoom, Discord, and Gmail during the jam. Please note that every member of the M<sup>3</sup>J team covers multiple duties, so it may take time for us to respond to your questions during the event. 
 
 
+# 2021 Math Jam Rules 
+
+In addition to the general rules above, the 2021 math jam will follow these requirements for each team's work. 
+
+## Paper Requirements 
+
+Submitting a paper is a required component of the 2021 math jam. 
+
+<ul>
+  <li><b>Submission Eligibility & Deadlines:</b> Submitting a paper is required to qualify for awards. No submissions will be accepted nor eligible for judging after April 25, 10 AM EST. S Please contact an event runner if there are extroidinary circumstances. 
+  <li><b>Page Limits:</b>Excluding references and citations, Junior Division papers must be no longer than five (5) pages and Senior Division papers must be no longer than seven (7) pages. This means that the last page of content can be no later than Page 5 or Page 7 respectively. Judges will not consider any pages past this cut-off for awards.</li>
+  <li><b>Standard Formatting:</b>Final papers must use the Times New Roman, size 12 font in text that is not headings, titles, or other forms of formatting. Teams are welcome to choose how to organize the sections of their paper and whether to include color.</li>
+</ul>  
+
+
+## Elevator Pitch
+
+Submitting an elevator pitch is an optional component of the 2021 math jam for a team. However, teams who submit a video will be eligible for a raffle of mini-prizes. 
+
+Each team is welcome to submit a video to present their project in a verbal form. This is a fun and great opportunity to practice  public speaking skills and build a community in our virtual landscape! 
+
+<ul>
+  <li><b>Submission Eligibility & Deadlines:</b> Submitted videos will not be considered when judging for awards, so videos will be accepted until 11:59 PM EST on April 25.</li>
+  <li><b>Video Uploads:</b>Please upload your video onto YouTube, either as a public or unlisted video. Submit your video using through our [submission page](https://mmmjam.github.io/submission/) by providing the link to your video! 
+  <li><b>Time Limit:</b>Please keep your videos under three (3) minutes.</li>
+  <li><b>Video Content:</b>Please state your team number (and your names if you choose) within the first minute of your video. This is especially helpful for event coordinators later when they organize work for the math jam gallery!</li>
+</ul>  
