@@ -18,3 +18,8 @@ td {
     width:15.67398119122257vw; 
     border-radius: 50%;
 }
+
+iframe{
+    width:100%; 
+    height: 100%; 
+}

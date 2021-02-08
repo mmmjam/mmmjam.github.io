@@ -15,8 +15,6 @@ This section includes the official email for any questions or concerns abou the 
 ## Program Coordinators 
 This section includes more individuals who were key in organizing the math jam, but are not as readily available to respond as the official email listed above. 
 
-{: .fs-6 .fw-300 }
-
 1. Program Director, Michael Barney, [mbarney@wpi.edu](mailto:mbarney@wpi.edu)
 
 
