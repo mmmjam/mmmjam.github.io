@@ -92,9 +92,12 @@ In addition to the general rules above, the 2021 math jam will follow these requ
 
 Submitting a paper is a required component of the 2021 math jam. 
 
-  <li><b>Submission Eligibility & Deadlines:</b> Submitting a paper is required to qualify for awards. No submissions will be accepted nor eligible for judging after April 25, 10 AM EST. S Please contact an event runner if there are extroidinary circumstances. 
-  <li><b>Page Limits:</b>Excluding references and citations, Junior Division papers must be no longer than five (5) pages and Senior Division papers must be no longer than seven (7) pages. This means that the last page of content can be no later than Page 5 or Page 7 respectively. Judges will not consider any pages past this cut-off for awards.</li>
-  <li><b>Standard Formatting:</b>Final papers must use the Times New Roman, size 12 font in text that is not headings, titles, or other forms of formatting. Teams are welcome to choose how to organize the sections of their paper and whether to include color.</li>
+
+<b>Submission Eligibility & Deadlines:</b> Submitting a paper is required to qualify for awards. No submissions will be accepted nor eligible for judging after April 25, 10 AM EST. S Please contact an event runner if there are extroidinary circumstances. 
+
+<b>Page Limits:</b>Excluding references and citations, Junior Division papers must be no longer than five (5) pages and Senior Division papers must be no longer than seven (7) pages. This means that the last page of content can be no later than Page 5 or Page 7 respectively. Judges will not consider any pages past this cut-off for awards.
+
+<b>Standard Formatting:</b>Final papers must use the Times New Roman, size 12 font in text that is not headings, titles, or other forms of formatting. Teams are welcome to choose how to organize the sections of their paper and whether to include color.
 
 
 ## Elevator Pitch
@@ -103,9 +106,11 @@ Submitting an elevator pitch is an optional component of the 2021 math jam for a
 
 Each team is welcome to submit a video to present their project in a verbal form. This is a fun and great opportunity to practice  public speaking skills and build a community in our virtual landscape! 
 
-<ul>
-  <li><b>Submission Eligibility & Deadlines:</b> Submitted videos will not be considered when judging for awards, so videos will be accepted until 11:59 PM EST on April 25.</li>
-  <li><b>Video Uploads:</b>Please upload your video onto YouTube, either as a public or unlisted video. Submit your video using through our [submission page](https://mmmjam.github.io/submission/) by providing the link to your video! 
-  <li><b>Time Limit:</b>Please keep your videos under three (3) minutes.</li>
-  <li><b>Video Content:</b>Please state your team number (and your names if you choose) within the first minute of your video. This is especially helpful for event coordinators later when they organize work for the math jam gallery!</li>
-</ul>  
+
+<b>Submission Eligibility & Deadlines:</b> Submitted videos will not be considered when judging for awards, so videos will be accepted until 11:59 PM EST on April 25.
+
+<b>Video Uploads:</b>Please upload your video onto YouTube, either as a public or unlisted video. Submit your video using through our [submission page](https://mmmjam.github.io/submission/) by providing the link to your video! 
+
+<b>Time Limit:</b>Please keep your videos under three (3) minutes.
+
+<b>Video Content:</b>Please state your team number (and your names if you choose) within the first minute of your video. This is especially helpful for event coordinators later when they organize work for the math jam gallery!
