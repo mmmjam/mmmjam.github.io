@@ -37,9 +37,12 @@ Integer feugiat scelerisque varius morbi enim. Risus pretium quam vulputate dign
 ### Sample Paper 
 View the paper on Google Docs [here](https://docs.google.com/document/d/1Yl5EOtGty0q3_kwc5jq07Uba_-hRUJ1vVU1afy07lTQ/edit?usp=sharing). 
 
+<b> make sure to embed file when doen here </b>
 
 ### Paper Template
 View the paper on Google Docs [here](https://docs.google.com/document/d/1p74TIbV6MqcdQUeSTwvMDwFyZmwjSmi5tMBTYLKVU4w/edit?usp=sharing).
+
+<b> make sure to embed file when doen here </b>
 
 ## Rubric
 

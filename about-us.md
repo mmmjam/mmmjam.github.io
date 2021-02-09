@@ -28,12 +28,12 @@ Learn more about the team behind the Math Modeling Jam!
     <TR>
         <!-- PERSON 1 NAME -->
         <TD>
-            Garima Prabhakar, our sacred leader <br>
+            Garima Prabhakar, Sample Role <br>
             <a href="mailto:gprabhakar@wpi.edu">gprabhakar@wpi.edu</a>
         </TD>
         <!-- PERSON 2 NAME -->
         <TD>
-            Clarise Liu, simp<br>
+            Clarise Liu, Sample Role<br>
             <a href="mailto:cliu11@wpi.edu">cliu11@wpi.edu</a>
         </TD>
     </TR>
@@ -52,12 +52,12 @@ Learn more about the team behind the Math Modeling Jam!
     <TR>
         <!-- PERSON 3 NAME -->
         <TD>
-            Andrew Yang, presidential candidate <br>
+            Andrew Yang, Sample Role <br>
             <a href="mailto:asyang@wpi.edu">asyang@wpi.edu</a>
         </TD>
         <!-- PERSON 4 NAME -->
         <TD>
-            Anvi Emani, speech queen <br>
+            Anvi Emani, Sample Role<br>
             <a href="mailto:semani@wpi.edu">semani@wpi.edu</a>
         </TD>
     </TR>
@@ -76,12 +76,12 @@ Learn more about the team behind the Math Modeling Jam!
     <TR>
         <!-- PERSON 3 NAME -->
         <TD>
-            Julia Rasmussen, artist extrodinaire <br>
+            Julia Rasmussen,Sample Role <br>
             <a href="mailto:jlrasmussen@wpi.edu">jlrasmussen@wpi.edu</a>
         </TD>
         <!-- PERSON 4 NAME -->
         <TD>
-            Ishita Goluguri, ultimate mathematician <br>
+            Ishita Goluguri, Sample Role <br>
             <a href="mailto:igoluguri@wpi.edu">igoluguri@wpi.edu</a>
         </TD>
     </TR>
