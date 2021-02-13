@@ -45,18 +45,18 @@ You drive to school every day. On the route you take from home to school, there 
 Not sure what to write in your paper? No worries! Event runners have answered a sample prompt in this math modelling report. Feel free to use this as inspiration for your own work to guide you in the right direction!<b>Please note that you cannot copy and paste any content from this paper into your own.</b>View the paper on Google Docs [here](https://docs.google.com/document/d/1Yl5EOtGty0q3_kwc5jq07Uba_-hRUJ1vVU1afy07lTQ/edit?usp=sharing). 
 
 
-<iframe width = "100%" height = "1000px" src="https://docs.google.com/document/d/e/2PACX-1vTAodh20VRp3UuQEmoi4L5Ptg06w6CSxhKLPFIFndySeNoMRvN-cH_rR0WSXskeZeRtssqLCM53wbRm/pub?embedded=true"></iframe>
+<!-- <iframe width = "100%" height = "1000px" src="https://docs.google.com/document/d/e/2PACX-1vTAodh20VRp3UuQEmoi4L5Ptg06w6CSxhKLPFIFndySeNoMRvN-cH_rR0WSXskeZeRtssqLCM53wbRm/pub?embedded=true"></iframe> -->
 
 ### Paper Template
 Not sure where to start with your paper? No worries! Event runners have organized this example for what sections your paper can include. Please note that you do not have to cite this template in your citations, but you should remove each section description before submitting your paper. View the paper on Google Docs [here](https://docs.google.com/document/d/1p74TIbV6MqcdQUeSTwvMDwFyZmwjSmi5tMBTYLKVU4w/edit?usp=sharing).
-
-<iframe width = "100%" height = "1000px" src="https://docs.google.com/document/d/e/2PACX-1vR48DaJF9h_a9yseQkcvSxepTbfz75nshorDspSXoGJkJVar36pU86GfrV600LhBMg2uYoecZ0WFdhg/pub?embedded=true"></iframe>
+<!-- 
+<iframe width = "100%" height = "1000px" src="https://docs.google.com/document/d/e/2PACX-1vR48DaJF9h_a9yseQkcvSxepTbfz75nshorDspSXoGJkJVar36pU86GfrV600LhBMg2uYoecZ0WFdhg/pub?embedded=true"></iframe> -->
 
 ## Rubric
 
 M<sup>3</sup>J judges will be graded based on a standard rubric. While your team does not have to look at the rubric, it can be a great reference for how you can improve your paper! For any questions or clarifications, the M<sup>3</sup>J event runners are here to help! View the page on Google Spreadsheets [here](https://docs.google.com/spreadsheets/d/10FZvLP1zLikN8odDJ4_VITP2hjQ1oRAqEKAQE4SXEfk/edit?usp=sharing).
 
-<iframe width = "100%" height= "1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6z_exUowmrMGC8P0pTfzpu4b-7N_droZOcg6wbL2Tf8E461tFnFuEeectll4atgg7ZlUbVhQZznSa/pubhtml?widget=true&amp;headers=false"></iframe>
+<!-- <iframe width = "100%" height= "1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6z_exUowmrMGC8P0pTfzpu4b-7N_droZOcg6wbL2Tf8E461tFnFuEeectll4atgg7ZlUbVhQZznSa/pubhtml?widget=true&amp;headers=false"></iframe> -->
 
 
 ## Google Slides
