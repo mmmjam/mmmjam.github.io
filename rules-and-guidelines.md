@@ -22,14 +22,13 @@ Please review this page <b> before </b> the problem is released and direct any q
 
 ---
 
-
 # General Rules
 
 ## Participants Per Team
 
 M<sup>3</sup>J is a collaborative event! Doing a modeling project is much easier with a group, especially on a time limit. When one teammmate is analyzing data, another might be drafting the report while a third is testing different equations! For this reason, each competing team must have <b> 3-4 members. All modelers must be based in Massachusetts.</b> 
 
-As a participant, you can sign up for the math jam with your team using [our registration form]("https://forms.gle/ekAnfLNfgoC297Mn9")! 
+As a participant, you can sign up for the math jam with your team using [our registration form](https://forms.gle/ekAnfLNfgoC297Mn9)! 
 
 If you do not have a team before signing up, that is ok! Specify what you are looking for in a teammate on the registration form. Our event coordinators will get back to you with a randomly-generated team of  members from your division with different skillsets.  
 
@@ -82,7 +81,6 @@ The Massachusetts Math Modeling Jam is committed to providing a safe and positiv
 <b> Be MATURE to speakers and MMJ staff.</b> The event runners, judges, and most of our speakers are students--just like you! In any group-wide Zoom meetings, workshops, or info sessions you attend, please help us make the event run smoothly for everyone. 
 
 A member of the M<sup>3</sup>J team will always be online on Zoom, Discord, and Gmail during the jam. Please note that every member of the M<sup>3</sup>J team covers multiple duties, so it may take time for us to respond to your questions during the event. 
-
 
 # 2021 Math Jam Rules 
 

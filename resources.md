@@ -41,7 +41,6 @@ You drive to school every day. On the route you take from home to school, there 
 <b>Which gas station would be the most economical for you to go to?</b>
 
 
-
 ### Sample Paper 
 Not sure what to write in your paper? No worries! Event runners have answered a sample prompt in this math modelling report. Feel free to use this as inspiration for your own work to guide you in the right direction!<b>Please note that you cannot copy and paste any content from this paper into your own.</b>View the paper on Google Docs [here](https://docs.google.com/document/d/1Yl5EOtGty0q3_kwc5jq07Uba_-hRUJ1vVU1afy07lTQ/edit?usp=sharing). 
 
@@ -62,8 +61,12 @@ M<sup>3</sup>J judges will be graded based on a standard rubric. While your team
 
 ## Google Slides
 
-Integer feugiat scelerisque varius morbi enim. Risus pretium quam vulputate dignissim suspendisse. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque. Etiam non quam lacus suspendisse faucibus interdum. Et malesuada fames ac turpis egestas. Consequat mauris nunc congue nisi vitae. Enim neque volutpat ac tincidunt vitae semper quis. Amet dictum sit amet justo donec enim. Enim praesent elementum facilisis leo vel. Non enim praesent elementum facilisis leo vel fringilla est.
+This sub-section will be updated soon.
 
 ## Handouts
 
-Integer feugiat scelerisque varius morbi enim. Risus pretium quam vulputate dignissim suspendisse. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque. Etiam non quam lacus suspendisse faucibus interdum. Et malesuada fames ac turpis egestas. Consequat mauris nunc congue nisi vitae. Enim neque volutpat ac tincidunt vitae semper quis. Amet dictum sit amet justo donec enim. Enim praesent elementum facilisis leo vel. Non enim praesent elementum facilisis leo vel fringilla est.
+This sub-section will be updated soon.
+
+## Workshops
+
+This sub-section will be updated soon.
