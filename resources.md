@@ -30,27 +30,35 @@ Don't worry if you don't have a plan! The M<sup>3</sup>J modelers and mentors ar
 
 ### Sample Prompt
 
-This was the prompt M<sup>3</sup>J problem writers answered in their sample paper. 
+Attached is the prompt M<sup>3</sup>J problem writers answered in their sample paper. <b>This is not the official 2021 Math Jam prompt. For this year's prompts for the Junior and Senior division, check out [the 2021 Math Modelling page](https://mmmjam.github.io/rules-2021)</b> 
 
-Integer feugiat scelerisque varius morbi enim. Risus pretium quam vulputate dignissim suspendisse. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque. 
+Most drivers have a “usual” region in which they do most of their driving. However, gas prices may vary widely so that gas may be substantially cheaper somewhere other than within that usual region. Would it be more economical to go to a station outside the usual region to buy gas? Thus, the general question we wish to address is, “How might we determine which gas station is the most cost-efficient?”
+
+You drive to school every day. On the route you take from home to school, there are several gas stations. Unfortunately, the prices on your route are always high. A friend tells you she buys her gas at a station several miles off your normal route where the prices are cheaper. A diagram of the gas stations nearby and their prices are shown below:
+
+<img src="/assets/images/problem.jpeg">
+
+<b>Which gas station would be the most economical for you to go to?</b>
+
+
 
 ### Sample Paper 
-View the paper on Google Docs [here](https://docs.google.com/document/d/1Yl5EOtGty0q3_kwc5jq07Uba_-hRUJ1vVU1afy07lTQ/edit?usp=sharing). 
+Not sure what to write in your paper? No worries! Event runners have answered a sample prompt in this math modelling report. Feel free to use this as inspiration for your own work to guide you in the right direction!<b>Please note that you cannot copy and paste any content from this paper into your own.</b>View the paper on Google Docs [here](https://docs.google.com/document/d/1Yl5EOtGty0q3_kwc5jq07Uba_-hRUJ1vVU1afy07lTQ/edit?usp=sharing). 
 
-<b> make sure to embed file when doen here </b>
+
+<iframe width = "100%" height = "1000px" src="https://docs.google.com/document/d/e/2PACX-1vTAodh20VRp3UuQEmoi4L5Ptg06w6CSxhKLPFIFndySeNoMRvN-cH_rR0WSXskeZeRtssqLCM53wbRm/pub?embedded=true"></iframe>
 
 ### Paper Template
-View the paper on Google Docs [here](https://docs.google.com/document/d/1p74TIbV6MqcdQUeSTwvMDwFyZmwjSmi5tMBTYLKVU4w/edit?usp=sharing).
+Not sure where to start with your paper? No worries! Event runners have organized this example for what sections your paper can include. Please note that you do not have to cite this template in your citations, but you should remove each section description before submitting your paper. View the paper on Google Docs [here](https://docs.google.com/document/d/1p74TIbV6MqcdQUeSTwvMDwFyZmwjSmi5tMBTYLKVU4w/edit?usp=sharing).
 
-<b> make sure to embed file when doen here </b>
+<iframe width = "100%" height = "1000px" src="https://docs.google.com/document/d/e/2PACX-1vR48DaJF9h_a9yseQkcvSxepTbfz75nshorDspSXoGJkJVar36pU86GfrV600LhBMg2uYoecZ0WFdhg/pub?embedded=true"></iframe>
 
 ## Rubric
 
-Integer feugiat scelerisque varius morbi enim. Risus pretium quam vulputate dignissim suspendisse. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque. Etiam non quam lacus suspendisse faucibus interdum. Et malesuada fames ac turpis egestas. Consequat mauris nunc congue nisi vitae. Enim neque volutpat ac tincidunt vitae semper quis. Amet dictum sit amet justo donec enim. Enim praesent elementum facilisis leo vel. Non enim praesent elementum facilisis leo vel fringilla est.
+M<sup>3</sup>J judges will be graded based on a standard rubric. While your team does not have to look at the rubric, it can be a great reference for how you can improve your paper! For any questions or clarifications, the M<sup>3</sup>J event runners are here to help! View the page on Google Spreadsheets [here](https://docs.google.com/spreadsheets/d/10FZvLP1zLikN8odDJ4_VITP2hjQ1oRAqEKAQE4SXEfk/edit?usp=sharing).
 
-## Workshop Recordings
+<iframe width = "100%" height= "1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6z_exUowmrMGC8P0pTfzpu4b-7N_droZOcg6wbL2Tf8E461tFnFuEeectll4atgg7ZlUbVhQZznSa/pubhtml?widget=true&amp;headers=false"></iframe>
 
-Integer feugiat scelerisque varius morbi enim. Risus pretium quam vulputate dignissim suspendisse. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque. Etiam non quam lacus suspendisse faucibus interdum. Et malesuada fames ac turpis egestas. Consequat mauris nunc congue nisi vitae. Enim neque volutpat ac tincidunt vitae semper quis. Amet dictum sit amet justo donec enim. Enim praesent elementum facilisis leo vel. Non enim praesent elementum facilisis leo vel fringilla est.
 
 ## Google Slides
 
