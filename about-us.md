@@ -12,6 +12,7 @@ has_children: false
 Learn more about the team behind the Math Modeling Jam!
 {: .fs-6 .fw-300 }
 
+
 <TABLE>
     <!-- ROW 1 OF IMAGES -->
     <TR>
@@ -38,4 +39,5 @@ Andrew is an event runner from Northborough, MA, and is currently a senior in hi
 Anvi is an event runner for MMMJam from Shrewsbury, MA! She’s led the efforts for workshop organization. She’s also worked with marketing, web development, and graphic design. She wants to increase educational opportunities, and outside of school, she likes to play tennis! Contact:
             <a href="mailto:semani@wpi.edu">semani@wpi.edu</a>
         </TD>
+    </TR>
 </TABLE>
