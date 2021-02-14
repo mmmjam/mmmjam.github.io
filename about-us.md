@@ -17,7 +17,7 @@ Learn more about the team behind the Math Modeling Jam!
     <TR>
         <!-- PERSON 1 IMAGE -->
         <TD> 
-            <img class="profile responsive" src="/assets/images/garimap.jpg" alt="Rumaisa Abdulhai"/>
+            <img class="profile responsive" src="/assets/images/asyang.jpg" alt="Andrew Yang"/>
         </TD>
         <!-- PERSON 2 IMAGE -->
         <TD> 
@@ -28,14 +28,14 @@ Learn more about the team behind the Math Modeling Jam!
     <TR>
         <!-- PERSON 1 NAME -->
         <TD>
-            Rumaisa Abdulhai, Sample Role <br>
-   Rumaisa is an event runner for MMMJam from Shrewsbury, MA! She’s led the efforts for website development, and is also working on problem writing and workshop organization. In her free time, she loves to draw and aspires to empower girls in her community using computer science.
-              <a href="mailto:rabdulhai@wpi.edu">rabdulhai@wpi.edu</a> 
+            Andrew Yang, Sample Role <br>
+Andrew is an event runner from Northborough, MA, and is currently a senior in high school. He’s led the effort in marketing and outreach. He’s also working on website development, the problem, and workshops. Outside of school, he loves to play the oboe and sing. Contact:
+              <a href="mailto:asyang@wpi.edu">asyang@wpi.edu</a> 
         </TD>
         <!-- PERSON 2 NAME -->
         <TD>
             Anvi Emani, Sample Role<br>
-            Anvi is an event runner for MMMJam from Shrewsbury, MA! She’s led the efforts for workshop organization. She’s also worked with marketing, web development, and graphic design. She wants to increase educational opportunities, and outside of school, she likes to play tennis!
+Anvi is an event runner for MMMJam from Shrewsbury, MA! She’s led the efforts for workshop organization. She’s also worked with marketing, web development, and graphic design. She wants to increase educational opportunities, and outside of school, she likes to play tennis! Contact:
             <a href="mailto:semani@wpi.edu">semani@wpi.edu</a>
         </TD>
 </TABLE>
