@@ -74,11 +74,11 @@ Don't know how to cite your research? ASK! M<sup>3</sup>J's Discord is a great p
 
 The Massachusetts Math Modeling Jam is committed to providing a safe and positive environment for everyone, regardless of virtual barriers. Every participant, mentor, volunteer, judge, organizer, and other M<sup>3</sup>J associate is required to be a RAM: respectful, aware, and mature. 
 
-<b> Be RESPECTFUL to every math modeller. </b> Even if you have never met your teammates or fellow participants, always abide by the golden rule: treat others how you want to be treated. If you think your actions or words even have the potential to make someone uncomfortable, do not do it. The M<sup>3</sup>J Team reserves the right to take action against any inappropriate behavior.
+<b> Be RESPECTFUL to every math modeler. </b> Even if you have never met your teammates or fellow participants, always abide by the golden rule: treat others how you want to be treated. If you think your actions or words even have the potential to make someone uncomfortable, do not do it. The M<sup>3</sup>J Team reserves the right to take action against any inappropriate behavior.
 
 <b> Be AWARE of yourself and your environment. </b> It's normal to have conflicts while approaching a new problem, but that does not make bullying, offending, or targeting a fellow modeler acceptable. If you know of or are in a situation that makes you feel uncomfortable or unsafe, please report it IMMEDIATELY to an event runner or admin of the M<sup>3</sup>J team. The quickest way to reach us during the math jam is through Discord, but we will also regularly check Gmail. 
 
-<b> Be MATURE to speakers and MMJ staff.</b> The event runners, judges, and most of our speakers are students--just like you! In any group-wide Zoom meetings, workshops, or info sessions you attend, please help us make the event run smoothly for everyone. 
+<b> Be MATURE to speakers and M<sup>3</sup>J staff.</b> The event runners, judges, and most of our speakers are students--just like you! In any group-wide Zoom meetings, workshops, or info sessions you attend, please help us make the event run smoothly for everyone. 
 
 A member of the M<sup>3</sup>J team will always be online on Zoom, Discord, and Gmail during the jam. Please note that every member of the M<sup>3</sup>J team covers multiple duties, so it may take time for us to respond to your questions during the event. 
 

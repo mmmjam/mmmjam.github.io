@@ -25,8 +25,8 @@ This section includes the problem descriptions for the 2021 Massachusetts Math M
 
 ## Problem Description: Senior Division
 
-This problem description will be updated April 24th, 2021 at 10 AM EST. 
+This problem description will be released April 24th, 2021 at 10 AM EST, which is the start of the event. 
 
 ## Problem Description: Junior Division
 
-This problem description will be updated April 24th, 2021 at 10 AM EST. 
+This problem description will be updated April 24th, 2021 at 10 AM EST, which is the start of the event. 
