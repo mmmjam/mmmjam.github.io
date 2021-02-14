@@ -36,7 +36,8 @@ Most drivers have a “usual” region in which they do most of their driving. H
 
 You drive to school every day. On the route you take from home to school, there are several gas stations. Unfortunately, the prices on your route are always high. A friend tells you she buys her gas at a station several miles off your normal route where the prices are cheaper. A diagram of the gas stations nearby and their prices are shown below:
 
-<img src="/assets/images/problem.JPG" alt = "this is a diagram">
+<img src="/assets/images/anviemani.jpg" alt="Flowers in Chania">
+
 
 <b>Which gas station would be the most economical for you to go to?</b>
 
