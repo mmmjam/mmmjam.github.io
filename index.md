@@ -21,7 +21,9 @@ Developed by students at Worcester Polytechnic Institute<br>
 Do you like to have fun? Does math make you excited? Bring some friends (and some bread) and join us for our first annual online math modeling jam! We will be addressing real-world problems with data analysis and math.
 Join us from April 24th to April 25th for the Math Modeling Jam! 
 
-Participation is free and via Zoom. Learn more and register at: mmmjam.github.io! 
+Besides the thrill of creating and reporting a math model in just 24 hours, we will be holding several workshops on a variety of topics! From LaTeX to college, robotics to band, and everything in between, feel free to stop by when you need something to do! 
+
+Participation is free and via Zoom. Learn more and register here! 
 
 You can register alone or with a group of 3-4 people. We will host additional workshops in the weeks leading up to the jam; the competition is 24 hours on the weekend. Excited to see you there!
 
