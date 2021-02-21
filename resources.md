@@ -5,7 +5,7 @@ nav_order: 5
 has_children: false
 ---
 
-# Resource
+# Resources
 {: .no_toc }
 
 This section includes resource guides for students to use during the math modeling jam.
@@ -28,6 +28,7 @@ Not sure where to start? We got your back! See below for an example of a math mo
 
 Don't worry if you don't have a plan! The M<sup>3</sup>J modelers and mentors are always here to help if you ask! 
 
+
 ### Sample Prompt
 
 Attached is the prompt M<sup>3</sup>J problem writers answered in their sample paper. <b>This is not the official 2021 Math Jam prompt. For this year's prompts for the Junior and Senior division, check out [the 2021 Math Modelling page](https://mmmjam.github.io/rules-2021)</b> 
@@ -36,16 +37,19 @@ Most drivers have a “usual” region in which they do most of their driving. H
 
 You drive to school every day. On the route you take from home to school, there are several gas stations. Unfortunately, the prices on your route are always high. A friend tells you she buys her gas at a station several miles off your normal route where the prices are cheaper. A diagram of the gas stations nearby and their prices are shown below:
 
-<img src="assets/images/problem.JPG" alt="Flowers in Chania">
+<img src="assets/images/problem.jpg" alt="problem set diagram">
 
 
 <b>Which gas station would be the most economical for you to go to?</b>
 
 
-### Sample Paper 
+### Sample Paper
+
 Not sure what to write in your paper? No worries! Event runners have answered a sample prompt in this math modelling report. Feel free to use this as inspiration for your own work to guide you in the right direction!<b>Please note that you cannot copy and paste any content from this paper into your own.</b>View the paper on Google Docs [here](https://docs.google.com/document/d/1Yl5EOtGty0q3_kwc5jq07Uba_-hRUJ1vVU1afy07lTQ/edit?usp=sharing). 
 
+
 ### Paper Template
+
 Not sure where to start with your paper? No worries! Event runners have organized this example for what sections your paper can include. Please note that you do not have to cite this template in your citations, but you should remove each section description before submitting your paper. View the paper on Google Docs [here](https://docs.google.com/document/d/1p74TIbV6MqcdQUeSTwvMDwFyZmwjSmi5tMBTYLKVU4w/edit?usp=sharing).
 
 
