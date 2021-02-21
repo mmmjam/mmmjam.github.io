@@ -65,7 +65,7 @@ Anvi is an event runner for MMMJam from Shrewsbury, MA! She’s led the efforts 
 <TR>
     <TD><img class="profile responsive" src="/assets/images/juliar.jpg" alt="Julia Rasmussen"/></TD>
     <TD>Julia Rasmussen<br>
-    <a href="mailto:jlrasmussen@wpi.edu">jlrasmussen@wpi.edu</a>
+    <a href="mailto:jlrasmussen@wpi.edu">jlrasmussen@wpi.edu</a><br>
     Julia is an event runner for MMMJam from Paxton, MA. She’s in charge of the graphics for our marketing. She’s also working on developing the problem for the challenge, developing the website, and general organizing for the event. In her spare time, she likes to code, play guitar, and draw.<br>
     </TD>
 </TR>
