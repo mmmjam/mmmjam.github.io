@@ -39,7 +39,7 @@ Anvi is an event runner for MMMJam from Shrewsbury, MA! She’s led the efforts 
 </TR>
 <!--daanish-->
 <TR>
-    <TD> <img class="profile responsive" src="/assets/images/daqureshi.jpg" alt="Daanish Qureshi"/> </TD>
+    <TD> <img class="profile responsive" src="/assets/images/daqureshi.JPG" alt="Daanish Qureshi"/> </TD>
     <TD>Daanish Qureshi<br>
         <a href="mailto:daqureshi@wpi.edu">daqureshi@wpi.edu</a><br>
    Daanish is an event runner for the challenge from Lincoln, MA. He helps with the organization of the challenge, as well as the workshops that teach programming. Daanish enjoys fishing, playing basketball, and hiking in his freetime.<br> 
@@ -75,6 +75,7 @@ Anvi is an event runner for MMMJam from Shrewsbury, MA! She’s led the efforts 
     <TD>Neil Kale<br>
     <a href="mailto:nakale@wpi.edu">nakale@wpi.edu</a><br>
     Neil is an event runner for MMMJam from Westborough, MA. He’s in charge of developing and managing the educational workshops before/during the event, and also general organizing. In his free time, he sings Sinatra and writes sci-fi.<br>
+    </TD>
 </TR>
 <!--rumaisa-->
 <TR>
