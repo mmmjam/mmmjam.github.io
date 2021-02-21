@@ -12,6 +12,27 @@ has_children: false
 Learn more about the team behind the Math Modeling Jam!
 {: .fs-6 .fw-300 }
 
+<TABLE>
+<TR>
+    <TD> <img class="profile responsive" src="/assets/images/asyang.jpg" alt="Andrew Yang"> </TD>
+    <TD>Andrew Yang<br>
+      <a href="mailto:asyang@wpi.edu">asyang@wpi.edu</a> 
+Andrew is an event runner from Northborough, MA, and is currently a senior in high school. He’s led the effort in marketing and outreach. He’s also working on website development, the problem, and workshops. Outside of school, he loves to play the oboe and sing.<br>
+    </TD>
+</TR>
+
+<TR>
+    <TD> <img class="profile responsive" src="/assets/images/anviemani.jpeg" alt="Anvi Emani"/> </TD>
+    <TD>Andrew Yang<br>
+      <TD>
+            Anvi Emani<br>
+            <a href="mailto:semani@wpi.edu">semani@wpi.edu</a>
+Anvi is an event runner for MMMJam from Shrewsbury, MA! She’s led the efforts for workshop organization. She’s also worked with marketing, web development, and graphic design. She wants to increase educational opportunities, and outside of school, she likes to play tennis!<br>
+            
+        </TD>
+    </TD>
+</TR>
+</TABLE>
 
 <TABLE>
     <!-- ROW 1 OF IMAGES -->
