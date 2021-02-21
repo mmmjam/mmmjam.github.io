@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resource Guides
+title: Resources
 nav_order: 5
 has_children: false
 ---
