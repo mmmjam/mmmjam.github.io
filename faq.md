@@ -14,4 +14,5 @@ Here you can find frequently asked questions. If you cannot find the answer to y
  
 You are welcome to use whatever you want to build your model; equations, calculators, Google Docs, LaTeX, databases, and even programming are all fair game. 
 
-<b>You do not need to know what any of these are to have a fun time at our jam!</b> We hope you can leave this event with new friends, skills, and goals for the future.
+
+<b>You do not need to know what any of these are to create the "best" solution or to have fun at the jam!</b> We hope you can leave this event with new friends, skills, and goals for the future.
