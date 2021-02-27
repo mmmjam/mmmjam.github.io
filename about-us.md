@@ -58,7 +58,7 @@ Anvi is an event runner for MMMJam from Shrewsbury, MA! She’s led the efforts 
     <TD> <img class="profile responsive" src="/assets/images/ishitag.JPG" alt="Ishita Goluguri"/></TD>
     <TD>Ishita Goluguri<br>
     <a href="mailto:igoluguri@wpi.edu">igoluguri@wpi.edu</a> <br>
-    Ishita is an event runner for MMMJam from Westborough! She’s in charge of developing the problem for the challenge and organizing the grading system. She’s also working on creating the graphics, and general organizing for the event. In her free time, she enjoys dancing kuchipudi, a form of Indian classical dance.<br>
+    Ishita is an event runner for MMMJam from Wborough! She’s in charge of developing the problem for the challenge and organizing the grading system. She’s also working on creating the graphics, and general organizing for the event. In her free time, she enjoys dancing kuchipudi, a form of Indian classical dance.<br>
    </TD>       
 </TR>
 <!--julia-->
@@ -74,15 +74,7 @@ Anvi is an event runner for MMMJam from Shrewsbury, MA! She’s led the efforts 
     <TD><img class="profile responsive" src="/assets/images/neilk.jpg" alt="Neil Kale"/></TD>
     <TD>Neil Kale<br>
     <a href="mailto:nakale@wpi.edu">nakale@wpi.edu</a><br>
-    Neil is an event runner for MMMJam from Westborough, MA. He’s in charge of developing and managing the educational workshops before/during the event, and also general organizing. In his free time, he sings Sinatra and writes sci-fi.<br>
-    </TD>
-</TR>
-<!--rumaisa-->
-<TR>
-    <TD><img class="profile responsive" src="/assets/images/rumaisaa.jpg" alt="Rumaisa Abdulhai"/></TD>
-    <TD>Rumaisa Abdulhai<br>
-    <a href="mailto:rabdulhai@wpi.edu">rabdulhai@wpi.edu</a><br>
-    Rumaisa is an event runner for MMMJam from Shrewsbury, MA! She’s led the efforts for website development, and is also working on problem writing and workshop organization. In her free time, she loves to draw and aspires to empower girls in her community using computer science.
+    Neil is an event runner for MMMJam from Wborough, MA. He’s in charge of developing and managing the educational workshops before/during the event, and also general organizing. In his free time, he sings Sinatra and writes sci-fi.<br>
     </TD>
 </TR>
 <!--toyesh-->
