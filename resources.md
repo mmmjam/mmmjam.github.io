@@ -57,6 +57,12 @@ Not sure where to start with your paper? No worries! Event runners have organize
 
 M<sup>3</sup>J judges will be graded based on a standard rubric. While your team does not have to look at the rubric, it can be a great reference for how you can improve your paper! For any questions or clarifications, the M<sup>3</sup>J event runners are here to help! View the page on Google Spreadsheets [here](https://docs.google.com/spreadsheets/d/10FZvLP1zLikN8odDJ4_VITP2hjQ1oRAqEKAQE4SXEfk/edit?usp=sharing).
 
+## Judges' Comments
+
+M<sup>3</sup>J judges will grade each paper and provide feedback to each team on their designated rubric. Check out how our sample paper was graded 
+on Google Docs[here](https://docs.google.com/document/d/1zNK_fMlLQLN0hPt7fXZE9HTNDQeJkcFiGRlD7KQFPug/edit?usp=sharing) by some of our event runners! 
+
+
 
 ## Additional Documents
 
