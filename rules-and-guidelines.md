@@ -42,9 +42,9 @@ If you do not have a team before signing up, that is ok! Specify what you are lo
 
 ## Divisions
 
-This event divides its participants into two divisions: the <b> Junior Division(Grades 5-7)</b> and <b> Senior Division(Grades 8-9)</b>. 
+This event divides its participants into two divisions: the <b> Junior Division(Grades 5-7)</b> and <b> Senior Division(Grades 7-9)</b>. 
 
-<b> Eighth graders must join the division that aligns with their sending school </b>. Whichever division that an eighth grader chooses while registering must reflect the school they currently attend: either middle school (the Junior Division) or high school (the Senior Divison).
+<b> Seventh graders must join the division that reflects with their sending school </b>: either middle school (the Junior Division) or high school (the Senior Divison).
 
 ## Submissions 
 
@@ -98,7 +98,7 @@ In addition to the general rules above, the 2021 math jam will follow these requ
 Submitting a paper is a required component of the 2021 math jam. 
 
 
-<b>Submission Eligibility & Deadlines:</b> Submitting a paper is required to qualify for awards. No submissions will be accepted nor eligible for judging after April 25, 10 AM EDT. Please contact an event runner if there are extroidinary circumstances. 
+<b>Submission Eligibility & Deadlines:</b> Submitting a paper is required to qualify for awards. No submissions will be accepted nor eligible for judging after April 25, 10 AM EDT. Please contact an event runner if there are extraordinary circumstances. 
 
 <b>Page Limits:</b>Excluding references and citations, Junior Division papers must be no longer than five (5) pages and Senior Division papers must be no longer than seven (7) pages. This means that the last page of content can be no later than Page 5 or Page 7 respectively. Judges will not consider any pages past this cut-off for awards.
 

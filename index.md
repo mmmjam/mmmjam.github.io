@@ -9,10 +9,10 @@ permalink: /
 # Massachusetts Math Modeling Jam
 {: .fs-9 }
 
-Developed by students at Worcester Polytechnic Institute<br>
+Developed by students at Mass Academy & the Worcester Polytechnic Institute<br>
 {: .fs-6 .fw-300 }
 
-[Register Now](http://wpi.qualtrics.com/jfe/form/SV_4JBDYhsAq8jDWzI){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join our Discord](https://discord.gg/8v8m2azGCg){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Register Now](http://wpi.qualtrics.com/jfe/form/SV_4JBDYhsAq8jDWzI){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
