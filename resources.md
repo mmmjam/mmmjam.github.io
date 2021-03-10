@@ -31,7 +31,7 @@ Don't worry if you don't have a plan! The M<sup>3</sup>J modelers and mentors ar
 
 ### Sample Prompt
 
-Attached is the prompt M<sup>3</sup>J problem writers answered in their sample paper. <b>This is not the official 2021 Math Jam prompt. For this year's prompts for the Junior and Senior division, check out [the 2021 Math Modelling page](https://mmmjam.github.io/rules-2021)</b>. 
+Attached is the prompt M<sup>3</sup>J problem writers answered in their sample paper. <b>This is not the official 2021 Math Jam prompt. For this year's prompts for the Junior and Senior division, check out [the 2021 Math Modeling page](https://mmmjam.github.io/rules-2021)</b>. 
 
 Most drivers have a “usual” region in which they do most of their driving. However, gas prices may vary widely so that gas may be substantially cheaper somewhere other than within that usual region. Would it be more economical to go to a station outside the usual region to buy gas? Thus, the general question we wish to address is, “How might we determine which gas station is the most cost-efficient?”
 
@@ -45,7 +45,7 @@ You drive to school every day. On the route you take from home to school, there 
 
 ### Sample Paper
 
-Not sure what to write in your paper? No worries! Event runners have answered a sample prompt in this math modelling report. Feel free to use this as inspiration for your own work to guide you in the right direction! <b>Please note that you cannot copy and paste any content from this paper into your own. </b>View the paper on Google Docs [here](https://docs.google.com/document/d/1Yl5EOtGty0q3_kwc5jq07Uba_-hRUJ1vVU1afy07lTQ/edit?usp=sharing). 
+Not sure what to write in your paper? No worries! Event runners have answered a sample prompt in this math modeling report. Feel free to use this as inspiration for your own work to guide you in the right direction! <b>Please note that you cannot copy and paste any content from this paper into your own. </b>View the paper on Google Docs [here](https://docs.google.com/document/d/1Yl5EOtGty0q3_kwc5jq07Uba_-hRUJ1vVU1afy07lTQ/edit?usp=sharing). 
 
 
 ### Paper Template
