@@ -27,7 +27,7 @@ Please review this page <b> before </b> the problem is released and direct any q
 
 ## Registration
 
-[Registration](http://wpi.qualtrics.com/jfe/form/SV_4JBDYhsAq8jDWzI) will run until <b> insert date</b>. The forms will be taken down after this time and no later submissions will be considered for this year's event. Additionally, no more than 30 teams will be admitted this year.  
+Registration will open on March 10, 2021 and close on April 10, 2021. The forms will be taken down after this time and no later submissions will be considered for this year's event. Additionally, no more than 30 teams will be admitted this year.  
 
 The team will assume that the information provided in the registration form is accurate; please do your best to avoid small mistakes! However, email any corrections to the registration to [mmmjam.team@gmail.com](mailto:mmmjam.team@gmail.com). 
 
@@ -36,7 +36,7 @@ The team will assume that the information provided in the registration form is a
 
 M<sup>3</sup>J is a collaborative event! Doing a modeling project is much easier with a group, especially on a time limit. When one teammmate is analyzing data, another might be drafting the report while a third is testing different equations! For this reason, each competing team must have <b> 3-4 members. All modelers must be based in Massachusetts.</b> 
 
-As a participant, you can sign up for the math jam with your team using [our registration form](https://forms.gle/ekAnfLNfgoC297Mn9)! 
+As a participant, you can sign up for the math jam with your team using our registration form! 
 
 If you do not have a team before signing up, that is ok! Specify what you are looking for in a teammate on the registration form. Our event coordinators will get back to you with a randomly-generated team of  members from your division with different skillsets.  
 
