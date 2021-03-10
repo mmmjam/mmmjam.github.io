@@ -23,7 +23,7 @@ Join us from April 24th to April 25th for the Math Modeling Jam!
 
 Besides the thrill of creating and reporting a math model in just 24 hours, we will be holding several workshops on a variety of topics! From LaTeX to college, robotics to band, and everything in between, feel free to stop by when you need something to do! 
 
-Participation is free and via Zoom. Learn more and register here! 
+Participation is free and via Zoom! 
 
 You can register alone or with a group of 3-4 people. We will host additional workshops in the weeks leading up to the jam; the competition is 24 hours on the weekend. Excited to see you there!
 
@@ -31,7 +31,9 @@ We’ll update this page with our official schedule here.
 
 <img src = "/assets/images/poster.png" alt = "2021 MMMJ Poster" >
 
----
+## Event Schedule
+
+Check back here soon for the event schedule! 
 
 ## Questions
 
