@@ -26,8 +26,8 @@ Before submitting your team's work, check [here](https://mmmjam.github.io/rules-
 
 ## Senior Division Submission
 
-If you are in the senior division, you can submit your work [here](https://forms.gle/VJYyGjtGFDnMaPq38).
+If you are in the senior division, you can submit your work [here](). We’ll update this page with a submission link when the jam starts.
 
 ## Junior Division Submission
 
-If you are in the junior divison, you can submit your work [here](https://forms.gle/VJYyGjtGFDnMaPq38).
+If you are in the junior divison, you can submit your work [here](). We’ll update this page with a submission link when the jam starts.

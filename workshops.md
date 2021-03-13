@@ -11,8 +11,12 @@ Below is the information about our workshops. A schedule, list of presenters, an
 
 ## Google Slides
 
-This sub-section will be updated soon.
+This subsection will be updated soon.
 
 ## Handouts
 
-This sub-section will be updated soon.
+This subsection will be updated soon.
+
+## YouTube
+
+This subsection will be updated soon. In the meantime, check out our YouTube channel [here](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw).
