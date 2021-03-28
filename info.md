@@ -5,7 +5,7 @@ nav_order: 9
 has_children: false
 ---
 
-# Info Sessions: What are they? 
+# Info Sessions: What's happening after we submit? 
 
 Although you'll stop working on your math modeling papers by 10AM on April 25th, the fun doesn't stop there! From then until our Awards Ceremony at 6:30 PM, we will be hosting info sessions about the schools hosting this event: WPI and the Massachusetts Academy of Math and Science! This is a great opportunity to meet the people behind M<sup>3</sup>J, get some tips about college, and gain more exposure to STEM.
 
@@ -13,11 +13,12 @@ While these info sessions are not mandatory nor necessary, we hope you come to a
 
 <b>Note that your info session attendance has no impact on your team's standing or final judging during the jam.<b>
 
-# Math Modeling 101
-## April 19, 2021
-### Prerequisites: None 
+# Mass Academy
+## April 25, 2021
+### 11:00 AM
 
-To begin the week, we will cover the basics of Math Modeling: what is it, why is it useful, and more. We will also cover an example problem to show how to think through the problem and formulate a solution. 
+The Massachusetts Academy for Math and Science is a collaboratively-funded effort by the Commonwealth of Massachusetts and Worcester Polytechnic Institute. Mass Academy provides STEM-based education and extensive resources to enable its 11th and 12th grade students to explore their interests in STEM. Please join us to learn more about our school and admissions process for prospective students!
+
 
 [Presentation Slides](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
 
@@ -27,11 +28,24 @@ To begin the week, we will cover the basics of Math Modeling: what is it, why is
 
 
 
-# Python
-## April 20, 2021
-### Prerequisites: [Download Python and Pycharm](https://mmmjam.github.io/installation/) 
+# Projects at Mass Academy
+## April 25, 2021
+### 1:00 PM 
 
-Python is a very useful programming skill that aids in data management, automation, and more. Using Python and your computer to your advantage can save lots of time, especially when doing lots of small calculations. In this workshop, we will cover the basics of Python so you will be able to create your own programs.
+A significant part of the Mass Academy experience is participating in various collaborative projects, including the STEM I independent research study, an assistive technologies engineering group project through STEM II, Apps for Good apps, and language films. In this info session, current Mass Academy students will share the projects they have worked on, along with advice on pursuing rigorous research projects. 
+
+[Presentation Slides](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
+
+[Presentation Handouts](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
+
+[Presentation Recording](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
+
+
+# FRC Robotics
+## April 25, 2021
+### 2:00 PM 
+
+FRC190 is the internationally-recognized combined WPI and Mass Academy FIRST Robotics competition. Team 190 has a strong sense of spirit and service, and the team visits various locations throughout the year to discuss the importance of STEM. Please join us to learn more about FRC190 and how you can join the team!
 
 [Presentation Slides](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
 
@@ -41,40 +55,11 @@ Python is a very useful programming skill that aids in data management, automati
 
 
 
-# LaTeX & Scientific/Technical Writing
-## April 21, 2021
-### Prerequisites: [Create an Overleaf account](https://mmmjam.github.io/installation/) 
+# WPI Summer Programs
+## April 25, 2021
+### 3:00 PM
 
-Understanding simple LaTeX and technical writing can help format your paper in a way that is professional and understandable. Without clear communication, the most important parts of your paper can get lost in translation. This workshop will cover what LaTeX is, some basic commands, and demonstrate how to use those commands in Overleaf, a free platform which hosts LaTeX.  
-
-[Presentation Slides](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
-
-[Presentation Handouts](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
-
-[Presentation Recording](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
-
-
-# Excel
-## April 22, 2021
-### Prerequisites: Download Excel
-
-Excel is a common software that seems basic at the surface level, but actually has lots of functionaliy that helps with data and statistic analysis. In this workshop, we will cover how to use a lot of important Excel features, especially those used to deal with a lot of data. Although a lot of people may have used Excel before, we will cover a lot of uncommon aspects of the software. 
-
-[Presentation Slides](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
-
-[Presentation Handouts](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
-
-[Presentation Recording](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
-
-
-
-# Team Skills and Collaboration 
-## April 23, 2021 
-### Prerequisites: None 
-
- Possibly the hardest, and the most important aspect of any group work is understanding how to work in a team. This will not only be an extremely useful skill during MMMJam, but also throughout high school and beyond. In this workshop, our team will cover what works and what doesn’t in teamwork, as well as useful tips in organization, time management, and the soft skills that come with being on a math modeling team.
-
- During the MMMJam on Saturday, April 24th, we’ll be hosting our final workshop on math modeling! This will cover all of the basics you need to know in order to complete a math modeling problem, everything from asking questions about a real world problem to applying data to solve it. We’re really excited to bring you this workshop, and can’t wait to have fun with you in the event!
+WPI offers a series of pre-collegiate summer programs, including Frontiers and Launch, to immerse students in STEM. Students are able to pick a certain interest in STEM and develop that interest through the program. Please join us to learn more about WPI’s selection of summer programs and how you can see yourself at one of them!
 
  [Presentation Slides](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
 
@@ -84,14 +69,12 @@ Excel is a common software that seems basic at the surface level, but actually h
 
 
 
-# Math Modeling 202
-## April 24, 2021
-### Prerequisites: None 
+# Life at Mass Academy
+## April 25, 2021
+### 4:00 PM 
 
- During the M<sup>3</sup>J on Saturday, April 24th, we’ll be hosting our final workshop on math modeling! This will cover all of the basics you need to know in order to complete a math modeling problem, from asking questions about a real world problem to applying data to solve it. We’re really excited to bring you this workshop, and can’t wait to have fun with you in the event!
-
-<b> Math Modeling 101 and Math Modeling 202 cover the same content; the only difference is that they are hosted on different days. </b>
-
+text text text 
+s
 [Presentation Slides](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
 
 [Presentation Handouts](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)

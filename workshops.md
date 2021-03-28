@@ -88,7 +88,7 @@ Excel is a common software that seems basic at the surface level, but actually h
 
  During the M<sup>3</sup>J on Saturday, April 24th, we’ll be hosting our final workshop on math modeling! This will cover all of the basics you need to know in order to complete a math modeling problem, from asking questions about a real world problem to applying data to solve it. We’re really excited to bring you this workshop, and can’t wait to have fun with you in the event!
 
-<b> Please note that Math Modeling 101 and Math Modeling 202 cover the same content; the only difference is that they are hosted on different days. </b>
+<b> Math Modeling 101 and Math Modeling 202 cover the same content; the only difference is that they are hosted on different days. </b>
 
 [Presentation Slides](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
 
