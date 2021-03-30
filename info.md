@@ -26,13 +26,11 @@ The Massachusetts Academy for Math and Science is a collaboratively-funded effor
 
 [Presentation Recording](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
 
-
-
-# Projects at Mass Academy
+# FRC Robotics
 ## April 25, 2021
 ### 1:00 PM 
 
-A significant part of the Mass Academy experience is participating in various collaborative projects, including the STEM I independent research study, an assistive technologies engineering group project through STEM II, Apps for Good apps, and language films. In this info session, current Mass Academy students will share the projects they have worked on, along with advice on pursuing rigorous research projects. 
+FRC190 is the internationally-recognized combined WPI and Mass Academy FIRST Robotics competition. Team 190 has a strong sense of spirit and service, and the team visits various locations throughout the year to discuss the importance of STEM. Please join us to learn more about FRC190 and how you can join the team!
 
 [Presentation Slides](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
 
@@ -40,12 +38,11 @@ A significant part of the Mass Academy experience is participating in various co
 
 [Presentation Recording](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
 
-
-# FRC Robotics
+# Projects at Mass Academy
 ## April 25, 2021
 ### 2:00 PM 
 
-FRC190 is the internationally-recognized combined WPI and Mass Academy FIRST Robotics competition. Team 190 has a strong sense of spirit and service, and the team visits various locations throughout the year to discuss the importance of STEM. Please join us to learn more about FRC190 and how you can join the team!
+A significant part of the Mass Academy experience is participating in various collaborative projects, including the STEM I independent research study, an assistive technologies engineering group project through STEM II, Apps for Good apps, and language films. In this info session, current Mass Academy students will share the projects they have worked on, along with advice on pursuing rigorous research projects. 
 
 [Presentation Slides](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
 
@@ -73,8 +70,8 @@ WPI offers a series of pre-collegiate summer programs, including Frontiers and L
 ## April 25, 2021
 ### 4:00 PM 
 
-text text text 
-s
+Between encompassing fifty students of different backgrounds and a strong range of extracurriculars, there are many different stories to tell at Mass Academy. Students grow with one another, using their common interests as guidelines. Please join us to learn about the diverse offerings of extracurriculars at Mass Academy! 
+
 [Presentation Slides](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)
 
 [Presentation Handouts](https://www.youtube.com/channel/UC3ge6-bfAyjfRiXGL7no1vw)

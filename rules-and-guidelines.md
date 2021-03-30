@@ -27,7 +27,7 @@ Please review this page <b> before </b> the problem is released and direct any q
 
 ## Registration
 
-Registration will open on March 10, 2021 and close on April 14, 2021. The forms will be taken down after this time and no later submissions will be considered for this year’s event. Additionally, no more than 30 teams will be admitted this year. We’ll only be considering 2 teams per school from March 10 to March 24. If we have any remaining spots open, we’ll open up the registration to anyone else who wants to register on March 24.
+Registration will open on March 10, 2021 and close on April 14, 2021. The forms will be taken down after this time and no later submissions will be considered for this year’s event. Additionally, no more than 30 teams will be admitted this year. 
 The team will assume that the information provided in the registration form is accurate; please do your best to avoid small mistakes! However, email any corrections to the registration to [mmmjam.team@gmail.com](mailto:mmmjam.team@gmail.com). 
 
 
@@ -39,7 +39,7 @@ As a participant, you can sign up for the math jam with your team using our regi
 
 ## Divisions
 
-This event divides its participants into two divisions: the <b>Junior Division(Grades 5-7)</b> and <b>Senior Division(Grades 7-9)</b>. Seventh graders can join either division: either middle school (the Junior Division) or high school (the Senior Division).
+This event divides its participants into two divisions: the <b>Junior Division (Grades 5-7)</b> and <b>Senior Division (Grades 7-9)</b>. Seventh graders can join either division: either middle school (the Junior Division) or high school (the Senior Division).
 
 ## Submissions 
 
@@ -78,7 +78,7 @@ Don't know how to cite your research? ASK! M<sup>3</sup>J's Discord is a great p
 
 ## Respect & Tolerance
 
-The Massachusetts Math Modeling Jam is committed to providing a safe and positive environment for everyone, regardless of virtual barriers. Every participant, mentor, volunteer, judge, organizer, and other M<sup>3</sup>J associate is required to be RESPECTFUL & MATURE.  
+The Massachusetts Math Modeling Jam is committed to providing a safe and positive environment for everyone, regardless of virtual barriers. Every participant, mentor, volunteer, judge, organizer, and other M<sup>3</sup>J associate is required to:  
 
 <b> Be RESPECTFUL to every math modeler. </b> Even if you have never met your teammates or fellow participants, always abide by the golden rule: treat others how you want to be treated. If you think your actions or words even have the potential to make someone uncomfortable, do not do it. 
 
