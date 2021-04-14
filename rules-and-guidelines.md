@@ -27,7 +27,7 @@ Please review this page <b> before </b> the problem is released and direct any q
 
 ## Registration
 
-Registration will open on March 10, 2021 and close on April 14, 2021. The forms will be taken down after this time and no later submissions will be considered for this year’s event. Additionally, no more than 30 teams will be admitted this year. 
+Registration will open on March 10, 2021 and close on April 16, 2021. The forms will be taken down after this time and no later submissions will be considered for this year’s event.
 The team will assume that the information provided in the registration form is accurate; please do your best to avoid small mistakes! However, email any corrections to the registration to [mmmjam.team@gmail.com](mailto:mmmjam.team@gmail.com). 
 
 
