@@ -8,10 +8,13 @@ permalink: /
 
 # Massachusetts Math Modeling Jam
 {: .text-center .fs-9}
-Developed by students at Massachusetts Academy at the Worcester Polytechnic Institute
+Hi everyone! Our event's date has been **postponed from April 24th-25th to June 6-12th in collaboration with TouchTomorrow at WPI**. We'll update this website accordingly in the next few days. Please check out TouchTomorrow's website [here](http://touchtomorrow.wpi.edu) to register for the festival and check out some of the amazing events happening! 
 {: .text-center .fs-6 .fw-300 .td}
+<!-- {: .text-center .fs-9}
+Developed by students at Massachusetts Academy at the Worcester Polytechnic Institute
+{: .text-center .fs-6 .fw-300 .td} -->
 
-[Register Now](http://wpi.qualtrics.com/jfe/form/SV_4JBDYhsAq8jDWzI){: .btn .text-center .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .td .text-center}
+<!-- [Register Now](http://wpi.qualtrics.com/jfe/form/SV_4JBDYhsAq8jDWzI){: .btn .text-center .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .td .text-center} -->
 
 ---
 
