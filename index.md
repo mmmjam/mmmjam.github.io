@@ -16,6 +16,10 @@ Developed by students at Massachusetts Academy at the Worcester Polytechnic Inst
 
 <!-- [Register Now](http://wpi.qualtrics.com/jfe/form/SV_4JBDYhsAq8jDWzI){: .btn .text-center .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .td .text-center} -->
 
+ADDENDUM: Please use your personal email when registering! This ensures that we can send you follow-up emails for upcoming workshops, event dates, and more. 
+{: .text-center .fs-6 .fw-300 .td}
+
+
 ---
 
 <img src = "/assets/images/flyer header.png" alt = "2021 MMMJ Poster" >
