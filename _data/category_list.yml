@@ -1,20 +1,20 @@
 #This file defines all the categories you are using
 
-schedule:
-  name: Schedule
-  description: Learn about upcoming workshops here!
-  description: Welcome!
-rules-and-guidelines:
-  name: Rules and Guidelines
-  description: Learn about M<sup>3</sup>J rules here
-resources:
-  name: Resources
-  description: Here are some resources to get you started.
+ecology:
+  name: Ecology
+  description: Learn more about ecology!
+transportation:
+  name: Transportation
+  description: Learn more about transportation!
+machine-learning:
+  name: Machine Learning
+  description: Learn more about machine learning!
 about-us:
   name: About Us
   description: 
-contact-us:
-  name: Contact Us
+helpful-tools:
+  name: Helpful Tools
+  description: Here are some resources to get you started.
 faqs:
   name: FAQs
   description: Please review this page before the problem is released and direct any questions you have to the math jam team.

@@ -18,14 +18,11 @@ layout: default
               <a href="{{ site.url }}{{ site.baseurl }}">Home</a>
             </li>
             <li class="breadcrumb-item">
-              <a href="../{{ page.category }}">{{ page_category.name }}</a>
-            </li>
-            <li class="breadcrumb-item">
               <a href="#">{{ page.title }}</a>
             </li>
           </ul>
           <h2 class="text-light text-bold">{{ page.title }}</h2>
-          <p class="text-light mb-0" style="font-size: 20px">{{ page.line }}</p>
+          <p class="text-light mb-0" style="font-size: 16px">{{ page.line }}</p>
         </div>
         <div class="column col-12">
           <div class="card">
@@ -47,7 +44,6 @@ layout: default
                     <p class="text-dark text-small text-italic mb-0">{{ page.last_modified_at | date: '%B %d, %Y'  }} - {% include reading-time.html %}</p>
                   </div>
                 {% endif %} -->
-
               	{{ content }}
 
 
