@@ -1,0 +1,90 @@
+#This file defines all categories that live within a parent category
+
+#Using Subcategories
+subcategory-one:
+  name: Subcategory UWU
+  parent-category: using-subcategories
+  parent-category-name: Using Subcategories
+  description: It has updated.
+subcategory-two:
+  name: Subcategory Two
+  parent-category: using-subcategories
+  parent-category-name: Using Subcategories
+  description: This is your second subcategory!
+subcategory-three:
+  name: Subcategory Three
+  parent-category: using-subcategories
+  parent-category-name: Using Subcategories
+  description: This is your third subcategory!
+
+#Workshops
+workshop-one:
+  name: Math Modeling 101
+  parent-category: workshops
+  parent-category-name: Workshops
+  description: The first workshop.
+workshop-two:
+  name: Python
+  parent-category: workshops
+  parent-category-name: Workshops
+  description: The second workshop.
+workshop-three:
+  name: LaTeX and Technical Writing
+  parent-category: workshops
+  parent-category-name: Workshops
+  description: The third workshop.
+workshop-four:
+  name: Excel
+  parent-category: workshops
+  parent-category-name: Workshops
+  description: The fourth workshop.
+workshop-five:
+  name: Team Skills and Collaboration
+  parent-category: workshops
+  parent-category-name: Workshops
+  description: The third workshop.
+workshop-six:
+  name: Math Modeling 202
+  parent-category: workshops
+  parent-category-name: Workshops
+  description: The fourth workshop.
+
+
+#Schedule
+workshops:
+  name: Workshops
+  parent-category: schedule
+  parent-category-name: Schedule
+  description: Some information on upcoming workshops.
+info-sessions:
+  name: Info Sessions
+  parent-category: schedule
+  parent-category-name: Schedule
+  description: Some information on upcoming info sessions.
+
+#Info Sessions
+info-session-one:
+  name: Mass Academy
+  parent-category: info-sessions
+  parent-category-name: Info Sessions
+  description: The first info session.
+info-session-two:
+  name: FRC Robotics
+  parent-category: info-sessions
+  parent-category-name: Info Sessions
+  description: The second info session.
+info-session-three:
+  name: Projects at Mass Academy
+  parent-category: info-sessions
+  parent-category-name: Info Sessions
+  description: The third info session.
+info-session-four:
+  name: WPI Summer Programs
+  parent-category: info-sessions
+  parent-category-name: Info Sessions
+  description: The third info session.
+info-session-five:
+  name: Life at Mass Academy
+  parent-category: info-sessions
+  parent-category-name: Info Sessions
+  description: The third info session.

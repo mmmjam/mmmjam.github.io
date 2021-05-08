@@ -1,0 +1,77 @@
+---
+layout: default
+category: about-us
+subcategory: about-us-three
+title: Contact Us
+---
+
+
+{% include header.html %}
+
+{% assign page_category = site.data.category_list[page.category] %}
+
+
+<div class="container-full">
+    <div class="container grid-xl">
+      <div class="mt-12 show-md"></div>
+      <div class="mt-8"></div>
+      <div class="columns negative-m-xl">
+        <div class="column col-12">
+          <ul class="breadcrumb">
+            <li class="breadcrumb-item">
+              <a href="{{ site.url }}{{ site.baseurl }}">Home</a>
+            </li>
+            <li class="breadcrumb-item">
+              <a href="../{{ page.category }}">{{ page_category.name }}</a>
+            </li>
+            <li class="breadcrumb-item">
+              <a href="#">{{ page.title }}</a>
+            </li>
+          </ul>
+          <h2 class="text-light text-bold">{{ page.title }}</h2>
+          <p class="text-light mb-0">{{ page.short-description }}</p>
+        </div>
+        <div class="column col-12">
+          <div class="card">
+            <div class="card-body">
+                <!-- {% if site.use_authors == true %}
+                {% assign post_author = site.data.authors[page.author] %}
+                <div class="flex-vertical-center mb-4">
+                  <figure class="avatar d-inline-block" style="align-items: center;">
+                    <img  src="../assets/{{ post_author.image }}" alt="...">
+                  </figure>
+                  <div class="ml-2">
+                    <p class="text-dark text-small mb-0">Written by <span class="text-primary">{{ post_author.name }}</span></p>
+                    <p class="text-dark text-small text-italic mb-0">{% include reading-time.html %}</p>
+                  </div>
+                </div>
+                {% else %}
+                <div class="ml-2">
+                    <p class="m-0 text-small">Last updated:</p>
+                    <p class="text-dark text-small text-italic mb-0">{{ page.last_modified_at | date: '%B %d, %Y'  }} - {% include reading-time.html %}</p>
+                  </div>
+                {% endif %}-->
+
+
+
+			<!-- i'm sorry for the hardcoding ;-; -->
+				<h5>M<sup>3</sup>J Team</h5>
+				<p>This section includes the official email for any questions or concerns about the math jam. It is the most active contact for anything jam-related before, during, and after the event. Please see the About Us page for individual contacts of each member on the 2020-21 M3J Team.</p>
+            	<p><strong>Program Staff</strong> - <code class="highlighter-rouge">mmmjam.team@gmail.com</code></p>
+            	
+            	<h5>Program Coordinators</h5>
+				<p>This section includes more individuals who were key in organizing the math jam, but are not as readily available to respond as the official email listed above.</p>
+            	<p><strong>Program Director, Michael Barney</strong> - <code class="highlighter-rouge">mbarney@wpi.edu</code></p>
+            	
+            	<h5>Speakers</h5>
+				<p>This section includes our workshop hosts and speakers who kindly volunteered their time for this event. Please direct any questions you have about their topics here!</p>
+            	
+            </div>
+          </div>
+        </div>
+        {% include more-help.html %}
+      </div>
+    </div>
+  </div>
+  
+</div>

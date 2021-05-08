@@ -1,0 +1,71 @@
+---
+layout: default
+category: about-us
+subcategory: about-us-two
+title: What is M<sup>3</sup>J?
+---
+
+
+{% include header.html %}
+
+{% assign page_category = site.data.category_list[page.category] %}
+
+
+<div class="container-full">
+    <div class="container grid-xl">
+      <div class="mt-12 show-md"></div>
+      <div class="mt-8"></div>
+      <div class="columns negative-m-xl">
+        <div class="column col-12">
+          <ul class="breadcrumb">
+            <li class="breadcrumb-item">
+              <a href="{{ site.url }}{{ site.baseurl }}">Home</a>
+            </li>
+            <li class="breadcrumb-item">
+              <a href="../{{ page.category }}">{{ page_category.name }}</a>
+            </li>
+            <li class="breadcrumb-item">
+              <a href="#">{{ page.title }}</a>
+            </li>
+          </ul>
+          <h2 class="text-light text-bold">{{ page.title }}</h2>
+          <p class="text-light mb-0">{{ page.short-description }}</p>
+        </div>
+        <div class="column col-12">
+          <div class="card">
+            <div class="card-body">
+                <!-- {% if site.use_authors == true %}
+                {% assign post_author = site.data.authors[page.author] %}
+                <div class="flex-vertical-center mb-4">
+                  <figure class="avatar d-inline-block" style="align-items: center;">
+                    <img  src="../assets/{{ post_author.image }}" alt="...">
+                  </figure>
+                  <div class="ml-2">
+                    <p class="text-dark text-small mb-0">Written by <span class="text-primary">{{ post_author.name }}</span></p>
+                    <p class="text-dark text-small text-italic mb-0">{% include reading-time.html %}</p>
+                  </div>
+                </div>
+                {% else %}
+                <div class="ml-2">
+                    <p class="m-0 text-small">Last updated:</p>
+                    <p class="text-dark text-small text-italic mb-0">{{ page.last_modified_at | date: '%B %d, %Y'  }} - {% include reading-time.html %}</p>
+                  </div>
+                {% endif %}-->
+
+
+
+			<!-- i'm sorry for the hardcoding ;-; -->
+              <p>MMMJam is a free math modeling experience hosted by students from Mass Academy at WPI. It'll be hosted over Zoom from April 24th to April 25th.</p>
+              <p>We hope that the event is not only a fun way to bring middle school and young high school students across the state together during the pandemic, but a learning experience for everyone.</p>
+              <p>You're not required to have any background knowledge of math modeling or any other tools, and our team is working on getting some helpful resources and workshops to help you along the way.</p>
+              
+
+            </div>
+          </div>
+        </div>
+        {% include more-help.html %}
+      </div>
+    </div>
+  </div>
+  
+</div>
