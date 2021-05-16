@@ -12,9 +12,9 @@ machine-learning:
 about-us:
   name: About Us
   description: 
-helpful-tools:
-  name: Helpful Tools
-  description: Here are some resources to get you started.
+math-modeling:
+  name: Math Modeling
+  description: Learn more about math modeling!
 faqs:
   name: FAQs
   description: Please review this page before the problem is released and direct any questions you have to the math jam team.
